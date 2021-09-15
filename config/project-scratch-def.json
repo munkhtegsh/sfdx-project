@@ -14,7 +14,7 @@
       }
     },
     "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false // Disabling secure and persistent browser caching has a significant negative performance impact on Lightning Experience. Always enable the setting in production orgs
+      "enableS1EncryptedStoragePref2": false
     }
   }
 }
